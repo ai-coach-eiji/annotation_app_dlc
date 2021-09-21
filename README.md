@@ -17,4 +17,4 @@ This app was created for all who want to make your own deeplabcut custom models.
 
 
 # License
-- This application is under [Apache License 2.0](https://github.com/ai-coach-eiji/handstand-v3/blob/main/LICENSE).
+- This application is under [Apache License 2.0](https://github.com/ai-coach-eiji/annotation_app_dlc/blob/main/LICENSE).
