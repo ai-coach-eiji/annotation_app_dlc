@@ -10,6 +10,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 # Reference
 - Custom plots: [stackoverflow](https://stackoverflow.com/questions/22052532/matplotlib-python-clickable-points)
 - Drag event: [stackoverflow](https://stackoverflow.com/questions/55758473/how-to-fix-problem-with-uncaught-error-unknown-type-dragstart/55758597)
+- Backend config: [github issues](https://github.com/matplotlib/matplotlib/issues/14304/)
 
 
 # Author
