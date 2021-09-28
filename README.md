@@ -3,7 +3,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 
 
 # ToDo
-- ~~[x] Implement dragglable points~~
+- [x] ~~Implement dragglable points~~
 - [ ] Outputs csv files
 
 
