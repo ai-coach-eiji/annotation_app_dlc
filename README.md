@@ -4,7 +4,8 @@ This app was created for all who want to make your own deeplabcut custom models.
 
 # ToDo
 - [x] ~~Implement dragglable points~~
-- [ ] Outputs csv files
+- [x] ~~Outputs csv files~~
+- [ ] Absolute coordinates
 
 
 # Reference
@@ -12,6 +13,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Drag event: [stackoverflow](https://stackoverflow.com/questions/55758473/how-to-fix-problem-with-uncaught-error-unknown-type-dragstart/55758597)
 - Backend config: [github issues](https://github.com/matplotlib/matplotlib/issues/14304/)
 - Loading elements: [stackoverflow](https://stackoverflow.com/questions/42260524/array-length-is-zero-but-the-array-has-elements-in-it)
+- Csv download: [Horrible Horse](https://www.codegrepper.com/code-examples/javascript/write+to+csv+javascript)
 
 
 # Author
