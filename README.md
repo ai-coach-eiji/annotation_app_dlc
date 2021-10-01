@@ -14,6 +14,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Backend config: [Thomas A Caswell](https://github.com/matplotlib/matplotlib/issues/14304/)
 - Loading elements: [ibrahim mahrir](https://stackoverflow.com/questions/42260524/array-length-is-zero-but-the-array-has-elements-in-it)
 - Csv download: [Horrible Horse](https://www.codegrepper.com/code-examples/javascript/write+to+csv+javascript)
+- Id assignment: [mpld3 documentation](https://mpld3.github.io/modules/API.html#mpld3.fig_to_html)
 - Relative coordinates: [Blender](https://stackoverflow.com/questions/5968227/get-the-value-of-webkit-transform-of-an-element-with-jquery/5968313#5968313)
 
 
