@@ -17,7 +17,8 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Id assignment: [mpld3 documentation](https://mpld3.github.io/modules/API.html#mpld3.fig_to_html)
 - Relative coordinates: [Blender](https://stackoverflow.com/questions/5968227/get-the-value-of-webkit-transform-of-an-element-with-jquery/5968313#5968313)
 - Toolbar position: [Abraham D Flaxman](https://stackoverflow.com/questions/26593759/mpld3-how-to-change-the-location-of-the-toolbar-using-a-plugin)
-- Frames slider: [Eamonn Gahan](https://stackoverflow.com/questions/40534973/changing-the-color-of-the-range-slider-in-materializecss)
+- Frames slider: [Léon Gersen](https://github.com/leongersen/noUiSlider)
+- Slider design: [Eamonn Gahan](https://stackoverflow.com/questions/40534973/changing-the-color-of-the-range-slider-in-materializecss)
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
