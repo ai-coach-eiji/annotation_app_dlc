@@ -16,7 +16,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Csv download: [Horrible Horse](https://www.codegrepper.com/code-examples/javascript/write+to+csv+javascript)
 - Id assignment: [mpld3 documentation](https://mpld3.github.io/modules/API.html#mpld3.fig_to_html)
 - Relative coordinates: [Blender](https://stackoverflow.com/questions/5968227/get-the-value-of-webkit-transform-of-an-element-with-jquery/5968313#5968313)
-
+- Toolbar position: [Abraham D Flaxman](https://stackoverflow.com/questions/26593759/mpld3-how-to-change-the-location-of-the-toolbar-using-a-plugin)
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
