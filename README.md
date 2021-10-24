@@ -6,7 +6,8 @@ This app was created for all who want to make your own deeplabcut custom models.
 - [x] ~~Implement dragglable points~~
 - [x] ~~Outputs csv files~~
 - [x] ~~Relative coordinates~~
-- [ ] Video Implementation
+- [x] ~~Video Implementation~~
+- [ ] Download Implementation
 
 
 # Reference
@@ -19,6 +20,8 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Toolbar position: [Abraham D Flaxman](https://stackoverflow.com/questions/26593759/mpld3-how-to-change-the-location-of-the-toolbar-using-a-plugin)
 - Frames slider: [Léon Gersen](https://github.com/leongersen/noUiSlider)
 - Slider design: [Eamonn Gahan](https://stackoverflow.com/questions/40534973/changing-the-color-of-the-range-slider-in-materializecss)
+- Dettach event : [Zakaria Acharki](https://stackoverflow.com/questions/53541590/ajax-requests-keep-doubling)
+- 
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
