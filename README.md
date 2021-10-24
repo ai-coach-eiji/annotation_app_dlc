@@ -21,7 +21,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Frames slider: [Léon Gersen](https://github.com/leongersen/noUiSlider)
 - Slider design: [Eamonn Gahan](https://stackoverflow.com/questions/40534973/changing-the-color-of-the-range-slider-in-materializecss)
 - Dettach event : [Zakaria Acharki](https://stackoverflow.com/questions/53541590/ajax-requests-keep-doubling)
-- 
+- Memory release: [Masahiro_T](https://qiita.com/Masahiro_T/items/bdd0482a8efd84cdd270)
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
