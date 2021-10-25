@@ -7,7 +7,9 @@ This app was created for all who want to make your own deeplabcut custom models.
 - [x] ~~Outputs csv files~~
 - [x] ~~Relative coordinates~~
 - [x] ~~Video Implementation~~
-- [ ] Download Implementation
+- [x] ~~Download Implementation~~
+- [ ] Create labeler form
+- [ ] Display labeled data
 
 
 # Reference
