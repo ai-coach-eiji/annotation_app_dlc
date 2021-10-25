@@ -28,6 +28,5 @@ This app was created for all who want to make your own deeplabcut custom models.
 
 
 # License
-
-- This project is licensed under the MIT License - see the [LICENSE]() file for details.
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/ai-coach-eiji/annotation_app_dlc/blob/main/LICENSE) file for details.
 
