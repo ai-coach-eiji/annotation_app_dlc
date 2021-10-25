@@ -17,6 +17,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Backend config: [Thomas A Caswell](https://github.com/matplotlib/matplotlib/issues/14304/)
 - Loading elements: [ibrahim mahrir](https://stackoverflow.com/questions/42260524/array-length-is-zero-but-the-array-has-elements-in-it)
 - Csv download: [Horrible Horse](https://www.codegrepper.com/code-examples/javascript/write+to+csv+javascript)
+- Csv download2: [しらたま様](https://rintama.net/%EF%BD%8A%EF%BD%81%EF%BD%96%EF%BD%81%EF%BD%93%EF%BD%83%EF%BD%92%EF%BD%89%EF%BD%90%EF%BD%94%E3%81%A7%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E9%85%8D%E5%88%97%E3%82%92%EF%BD%83%EF%BD%93%EF%BD%96%E3%81%A7/)
 - Id assignment: [mpld3 documentation](https://mpld3.github.io/modules/API.html#mpld3.fig_to_html)
 - Relative coordinates: [Blender](https://stackoverflow.com/questions/5968227/get-the-value-of-webkit-transform-of-an-element-with-jquery/5968313#5968313)
 - Toolbar position: [Abraham D Flaxman](https://stackoverflow.com/questions/26593759/mpld3-how-to-change-the-location-of-the-toolbar-using-a-plugin)
