@@ -5,7 +5,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 # ToDo
 - [x] ~~Implement dragglable points~~
 - [x] ~~Outputs csv file~~
-- [ ] ~~Outputs hd5 file~~
+- [x] ~~Outputs hd5 file~~
 - [x] ~~Relative coordinates~~
 - [x] ~~Video Implementation~~
 - [x] ~~Download Implementation~~
