@@ -26,7 +26,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Dettach event : [Zakaria Acharki](https://stackoverflow.com/questions/53541590/ajax-requests-keep-doubling)
 - Memory release: [Masahiro_T](https://qiita.com/Masahiro_T/items/bdd0482a8efd84cdd270)
 - Hd5 download: [DeepLabCut](deeplabcut/gui/labeling_toolbox.py)
-- Zip download: [Musa](https://stackoverflow.com/questions/68530565/how-to-download-zip-file-coming-as-django-response-through-ajax-post-request)
+- Zip ajax download: [Musa](https://stackoverflow.com/questions/68530565/how-to-download-zip-file-coming-as-django-response-through-ajax-post-request)
 - 
 
 # Author
