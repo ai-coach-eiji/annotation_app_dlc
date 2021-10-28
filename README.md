@@ -27,6 +27,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Memory release: [Masahiro_T](https://qiita.com/Masahiro_T/items/bdd0482a8efd84cdd270)
 - Hd5 download: [DeepLabCut](deeplabcut/gui/labeling_toolbox.py)
 - Zip ajax download: [Musa](https://stackoverflow.com/questions/68530565/how-to-download-zip-file-coming-as-django-response-through-ajax-post-request)
+- Obtain file name: [Brainy Buzzard](https://www.codegrepper.com/code-examples/javascript/get+filename+of+uploaded+file+in+javascript)
 - 
 
 # Author
