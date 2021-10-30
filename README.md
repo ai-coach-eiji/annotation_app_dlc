@@ -30,6 +30,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Obtain file name: [Brainy Buzzard](https://www.codegrepper.com/code-examples/javascript/get+filename+of+uploaded+file+in+javascript)
 - Post without form: [ikapper](https://blog.ikappio.com/post-on-ajax-also-add-csrf_token-with-django/)
 - Page layout: [Materialize Grid](https://materializecss.com/grid.html)
+- Image on memory: [日暮拓人様](https://blog.hgrs.me/20190525231834)
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
