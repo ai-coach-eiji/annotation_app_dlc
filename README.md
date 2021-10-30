@@ -29,6 +29,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Zip ajax download: [Musa](https://stackoverflow.com/questions/68530565/how-to-download-zip-file-coming-as-django-response-through-ajax-post-request)
 - Obtain file name: [Brainy Buzzard](https://www.codegrepper.com/code-examples/javascript/get+filename+of+uploaded+file+in+javascript)
 - Post without form: [ikapper](https://blog.ikappio.com/post-on-ajax-also-add-csrf_token-with-django/)
+- Page layout: [Materialize Grid](https://materializecss.com/grid.html)
 
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
