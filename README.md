@@ -35,6 +35,10 @@ This app was created for all who want to make your own deeplabcut custom models.
 - Page layout: [Materialize Grid](https://materializecss.com/grid.html)
 - Image on memory: [日暮拓人様](https://blog.hgrs.me/20190525231834)
 
+- BlazePose: [Valentin Bazarevsky et al.](https://xr.cornell.edu/workshop/2020/papers)
+
+
+
 # Author
 北島栄司 （[https://twitter.com/1220castillo](https://twitter.com/1220castillo)）
 
