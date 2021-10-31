@@ -9,6 +9,8 @@ This app was created for all who want to make your own deeplabcut custom models.
 - [x] ~~Relative coordinates~~
 - [x] ~~Video Implementation~~
 - [x] ~~Download Implementation~~
+- [x] ~~Croping Implementation~~
+- [ ] Save hdf inmediately
 - [ ] Display labeled data
 
 
