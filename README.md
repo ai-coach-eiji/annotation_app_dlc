@@ -10,7 +10,7 @@ This app was created for all who want to make your own deeplabcut custom models.
 - [x] ~~Video Implementation~~
 - [x] ~~Download Implementation~~
 - [x] ~~Croping Implementation~~
-- [ ] Save hdf immediately
+- [x] ~~Save hdf immediately~~
 - [ ] Display labeled data
 
 
